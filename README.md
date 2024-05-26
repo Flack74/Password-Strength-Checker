@@ -1,4 +1,6 @@
 ---
+
+
 # Password Validation and Generation Tool
 
 This project provides a web-based tool for validating and generating passwords. It includes two main features: password validation and password generation. The validation tool ensures that a password meets specific security criteria, while the generation tool creates a random, secure password.
