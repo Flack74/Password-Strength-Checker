@@ -1,5 +1,5 @@
----
 
+---
 
 # Password Validation and Generation Tool
 
@@ -44,8 +44,9 @@ This project provides a web-based tool for validating and generating passwords. 
 
 ### Example
 
-```
-html
+Below is an example of the HTML structure used in the project. This shows the integration of the validation and generation tools.
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -106,6 +107,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or support, please contact [puspendrachawlax@gmail.com](mailto:yourname@yourdomain.com).
+For questions or support, please contact [puspendrachawlax@gmail.com](mailto:puspendrachawlax@gmail.com).
 
 ---
+
+This corrected README file includes an example section with proper formatting. It should now be clear and error-free for users.
